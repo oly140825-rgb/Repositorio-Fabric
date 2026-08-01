@@ -1,0 +1,291 @@
+table empleados
+	lineageTag: 9983501f-5af6-4f6f-acc3-bb529760e2ea
+	sourceLineageTag: [dbo].[empleados]
+
+	column _c0
+		dataType: int64
+		formatString: 0
+		lineageTag: 7d89ff86-eac1-4476-b466-d98c88fce4f3
+		sourceLineageTag: _c0
+		summarizeBy: sum
+		sourceColumn: _c0
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c1
+		dataType: string
+		lineageTag: 4d25e3a6-495c-4059-97b3-6b6d0100f8cc
+		sourceLineageTag: _c1
+		summarizeBy: none
+		sourceColumn: _c1
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c2
+		dataType: string
+		lineageTag: d478df45-f857-4bd7-baf9-8d27dd292964
+		sourceLineageTag: _c2
+		summarizeBy: none
+		sourceColumn: _c2
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c3
+		dataType: string
+		lineageTag: 977a1078-13ed-4f3d-b0b7-a231b5dbf9cc
+		sourceLineageTag: _c3
+		summarizeBy: none
+		sourceColumn: _c3
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c4
+		dataType: string
+		lineageTag: 9934d6ee-a073-421e-af68-f7476083386d
+		sourceLineageTag: _c4
+		summarizeBy: none
+		sourceColumn: _c4
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c5
+		dataType: string
+		lineageTag: 127c1c2b-132c-458f-8ede-f398447b9c47
+		sourceLineageTag: _c5
+		summarizeBy: none
+		sourceColumn: _c5
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c6
+		dataType: string
+		lineageTag: 7e7dc2c2-375c-497b-83c9-2c4476d00819
+		sourceLineageTag: _c6
+		summarizeBy: none
+		sourceColumn: _c6
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c7
+		dataType: string
+		lineageTag: 8b457d9a-37cf-47a4-a83e-2d4247f32381
+		sourceLineageTag: _c7
+		summarizeBy: none
+		sourceColumn: _c7
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c8
+		dataType: string
+		lineageTag: 6f9a185c-880e-4b50-ad9f-68cd22a65cf4
+		sourceLineageTag: _c8
+		summarizeBy: none
+		sourceColumn: _c8
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c9
+		dataType: string
+		lineageTag: 72708b86-aee2-4b4f-a0d5-1383a3a37dba
+		sourceLineageTag: _c9
+		summarizeBy: none
+		sourceColumn: _c9
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c10
+		dataType: string
+		lineageTag: 4c6d8b13-31d1-44d3-8f4e-b287c6ba5f6d
+		sourceLineageTag: _c10
+		summarizeBy: none
+		sourceColumn: _c10
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c11
+		dataType: string
+		lineageTag: 3a5a5a87-c12c-45a3-a4bc-8364a7215944
+		sourceLineageTag: _c11
+		summarizeBy: none
+		sourceColumn: _c11
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c12
+		dataType: string
+		lineageTag: 8e486080-cb01-4e01-a7a4-6ba03253e699
+		sourceLineageTag: _c12
+		summarizeBy: none
+		sourceColumn: _c12
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c13
+		dataType: string
+		lineageTag: d10fc9bd-e350-4c92-bb7d-c8885e365d36
+		sourceLineageTag: _c13
+		summarizeBy: none
+		sourceColumn: _c13
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c14
+		dataType: string
+		lineageTag: 48e08e21-95c6-4798-bbbc-b7244a68bf71
+		sourceLineageTag: _c14
+		summarizeBy: none
+		sourceColumn: _c14
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c15
+		dataType: string
+		lineageTag: 56f480c8-a283-464b-8973-c36e20607f43
+		sourceLineageTag: _c15
+		summarizeBy: none
+		sourceColumn: _c15
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c16
+		dataType: string
+		lineageTag: 0cff781e-b9e8-4ee4-8d09-b1267e6e3801
+		sourceLineageTag: _c16
+		summarizeBy: none
+		sourceColumn: _c16
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c17
+		dataType: string
+		lineageTag: 01cbaa7d-acf4-446b-9f32-23a6b6682e95
+		sourceLineageTag: _c17
+		summarizeBy: none
+		sourceColumn: _c17
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c18
+		dataType: string
+		lineageTag: e063d75d-97c9-40e6-964a-21a4f4c5aa94
+		sourceLineageTag: _c18
+		summarizeBy: none
+		sourceColumn: _c18
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c19
+		dataType: string
+		lineageTag: 19debdcc-d29e-4559-a339-250b89ab116e
+		sourceLineageTag: _c19
+		summarizeBy: none
+		sourceColumn: _c19
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c20
+		dataType: string
+		lineageTag: 92d594ff-8bfa-409e-94e0-6f397858cbef
+		sourceLineageTag: _c20
+		summarizeBy: none
+		sourceColumn: _c20
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c21
+		dataType: string
+		lineageTag: e546bbfd-23db-4364-992b-ecfeb76bc7ec
+		sourceLineageTag: _c21
+		summarizeBy: none
+		sourceColumn: _c21
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c22
+		dataType: string
+		lineageTag: c2f1d00a-318c-4581-8009-fc470ed108f2
+		sourceLineageTag: _c22
+		summarizeBy: none
+		sourceColumn: _c22
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c23
+		dataType: string
+		lineageTag: 16f6a0f5-d778-4be1-9e6e-a310e431fe66
+		sourceLineageTag: _c23
+		summarizeBy: none
+		sourceColumn: _c23
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c24
+		dataType: string
+		lineageTag: 69bf0cfd-3484-4ad2-bff0-76a2fd1a9500
+		sourceLineageTag: _c24
+		summarizeBy: none
+		sourceColumn: _c24
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c25
+		dataType: string
+		lineageTag: 4b03f093-842a-4798-8cfc-9e555ab9170d
+		sourceLineageTag: _c25
+		summarizeBy: none
+		sourceColumn: _c25
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c26
+		dataType: string
+		lineageTag: 83d14b5d-a723-4351-b85a-5b2c6e56c50d
+		sourceLineageTag: _c26
+		summarizeBy: none
+		sourceColumn: _c26
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c27
+		dataType: string
+		lineageTag: a088354b-43f9-4e9d-bbff-6cb136d0e279
+		sourceLineageTag: _c27
+		summarizeBy: none
+		sourceColumn: _c27
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c28
+		dataType: string
+		lineageTag: 9e2fff28-da33-4320-a21e-938d603251fa
+		sourceLineageTag: _c28
+		summarizeBy: none
+		sourceColumn: _c28
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c29
+		dataType: string
+		lineageTag: ccdca620-e0d4-4755-b1bf-0ec1e7a94a0b
+		sourceLineageTag: _c29
+		summarizeBy: none
+		sourceColumn: _c29
+
+		annotation SummarizationSetBy = Automatic
+
+	column _c30
+		dataType: string
+		lineageTag: c750e30f-5d52-4a07-aedc-4e7cdde422a0
+		sourceLineageTag: _c30
+		summarizeBy: none
+		sourceColumn: _c30
+
+		annotation SummarizationSetBy = Automatic
+
+	partition empleados = entity
+		mode: directLake
+		source
+			entityName: empleados
+			schemaName: dbo
+			expressionSource: 'DirectLake - lakehause_Fabric'
+
